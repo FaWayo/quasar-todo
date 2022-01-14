@@ -15,7 +15,7 @@
       
       </q-toolbar>
        <div class = "q-px-lg q-pt-xl q-mb-md">
-         <div class = "text-h3"> Todo App</div>
+         <div class = "text-h3"> To-Do App</div>
          <div class = "text-sub1"> {{todaysDate}}</div>
        </div>
 
